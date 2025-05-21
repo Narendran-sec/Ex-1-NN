@@ -1,8 +1,8 @@
-<H3>Name: Aadithya R</H3>
-<H3>Register No: 212223240001.</H3>
+<H3>Name: Narendran K</H3>
+<H3>Register No: 212223230135.</H3>
 <H3>EX. NO.1</H3>
 <H3>Date: </H3>
-<H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
+<H1> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
 
